@@ -15,3 +15,13 @@ The RStudio console output from the multiple linear regression is provided in th
 
 ![img](Images/Del1.png)
 
+## Summary Statistics on Suspension Coils
+The suspension coil manufacturing lot dataset was analyzed to identify if any lots were outside of design specifications. The image below provides the mean, median, variance and standard deviation of the measure coil pressure in pounds per square inch (PS() for all manufacturing lots in the datatset.
+
+![img](Images/Del2_total.png)
+
+
+Based on the summary statistics based on the manufacturing lot, Lot 3 does not meet the MechaCar design specifications. Lot 3's variance exceeds the speciicatioin of a variance less than or equal to 100 psi. The variance for Lot 3, as well as Lot 1 and Lot 2, is provided in the image below.
+
+![img](Images/Del2_lot.png)
+
