@@ -34,14 +34,14 @@ The image below provides a summary of the t-test outcomes for the suspension coi
 ### Lot 1
 The image below provides a summary of the t-test outcomes for the suspension coil pressure for manufacturing lot 1 compared to the assumed population mean of 1500 psi. Based on the one sample t-test p-value of 1.0, there is no statistically significant difference in the means of manufacturing lot 1 compared to the population mean. 
 
-![img](Images/Del3_Lot1t-test.png)
+![img](Images/Del3_Lot1_t-test.png)
 
 ### Lot 2
 The image below provides a summary of the t-test outcomes for the suspension coil pressure for manufacturing lot 2 compared to the assumed population mean of 1500 psi. Based on the one sample t-test p-value of 0.61, there is no statistically significant difference in the means of  manufacturing lot 2 compared to the population mean. 
 
-![img](Images/Del3_Lot2t-test.png)
+![img](Images/Del3_Lot2_t-test.png)
 
 ### Lot 3
 The image below provides a summary of the t-test outcomes for the suspension coil pressure for manufacturing lot 3 compared to the assumed population mean of 1500 psi. Based on the one sample t-test p-value of 0.04, **there is a statistically significant difference in the means of manufacturing lot 3 compared to the population mean**. 
 
-![img](Images/Del3_Lot3t-test.png)
+![img](Images/Del3_Lot3_t-test.png)
