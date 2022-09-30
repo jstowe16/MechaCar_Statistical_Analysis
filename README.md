@@ -45,3 +45,24 @@ The image below provides a summary of the t-test outcomes for the suspension coi
 The image below provides a summary of the t-test outcomes for the suspension coil pressure for manufacturing lot 3 compared to the assumed population mean of 1500 psi. Based on the one sample t-test p-value of 0.04, **there is a statistically significant difference in the means of manufacturing lot 3 compared to the population mean**. 
 
 ![img](Images/Del3_Lot3_t-test.png)
+
+## Study Design: MechaCar vs Competition
+### Metrics to Test
+To position MechaCar for successful launch, the analytics team recommends the following metrics be investigated to identify any differentators of MechaCar from the competition:
+* Base MSRP, options costs and incentives.
+* City MPG, Highway MPG and combined MPG.
+* Torque, horsepower and braking performance.
+* NHTSA safety rating.
+
+These metrics should be compared both in the target MechaCar vehicle class as well as all new model vehicles from the competition.
+
+### The Null Hypothesis
+The Null Hypothesis for the study is that there is no statistically significant difference between MechaCar's sample metrics and the competition popluation.
+
+### Statistical Test
+
+What statistical test would you use to test the hypothesis? And why?
+
+### Data Requirements
+
+What data is needed to run the statistical test?
