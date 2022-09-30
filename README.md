@@ -60,9 +60,16 @@ These metrics should be compared both in the target MechaCar vehicle class as we
 The Null Hypothesis for the study is that there is no statistically significant difference between MechaCar's sample metrics and the competition popluation.
 
 ### Statistical Test
+The analytics team recommends using t-tests to the the null hypothesis. The t-tests will compare MechaCar sample dataset to the various competiion population groups. This test is valid since the goal is to compare the MechaCar sample to populations. From the returning p-values, the tests will indicate statistically significant differences in the MechaCar metrics and those of the various competition populations.
 
-What statistical test would you use to test the hypothesis? And why?
 
 ### Data Requirements
+The data required to run the statistical tests are:
+* Database of metrics of competition for both similar class vehicles to MechaCar and the overall population for:
++ Base MSRP, options costs and incentives.
++ City MPG, Highway MPG and combined MPG.
++ Torque, horsepower and braking performance.
++ NHTSA safety rating. 
 
-What data is needed to run the statistical test?
+The same data are required for the MechaCar offering in order to complet the study.
+
